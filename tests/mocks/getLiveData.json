@@ -1,0 +1,61 @@
+{
+  "wh25": [
+    {
+      "intemp": "24.9",
+      "unit": "C",
+      "inhumi": "58%",
+      "abs": "970.8 hPa",
+      "rel": "970.8 hPa"
+    }
+  ],
+  "ch_soil": [
+    {
+      "channel": "1",
+      "name": "GrowBox1",
+      "battery": "5",
+      "humidity": "26%"
+    },
+    {
+      "channel": "2",
+      "name": "GrowBox2",
+      "battery": "5",
+      "humidity": "32%"
+    },
+    {
+      "channel": "3",
+      "name": "GrowBox3",
+      "battery": "5",
+      "humidity": "33%"
+    },
+    {
+      "channel": "4",
+      "name": "CodiaeumVege",
+      "battery": "5",
+      "humidity": "6%"
+    },
+    {
+      "channel": "5",
+      "name": "CalatheaSurpris",
+      "battery": "5",
+      "humidity": "58%"
+    },
+    {
+      "channel": "6",
+      "name": "Alocasia",
+      "battery": "5",
+      "humidity": "60%"
+    },
+    {
+      "channel": "7",
+      "name": "CalatheaStripe",
+      "battery": "5",
+      "humidity": "28%"
+    },
+    {
+      "channel": "8",
+      "name": "CalatheaOrnata",
+      "battery": "5",
+      "humidity": "22%"
+    }
+  ]
+}
